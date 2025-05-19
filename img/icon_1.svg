@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 96 96">
+  <!-- Generator: Adobe Illustrator 29.5.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 141)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #f89a20;
+      }
+
+      .st1 {
+        fill: none;
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: .25px;
+      }
+
+      .st2 {
+        fill: #b5c734;
+      }
+
+      .st3 {
+        display: none;
+      }
+
+      .st4 {
+        fill: #cf2f30;
+      }
+
+      .st5 {
+        fill: #457fc1;
+      }
+    </style>
+  </defs>
+  <g class="st3">
+    <path class="st1" d="M96,96H-1V-1h97v97ZM0,95h95V0H0v95Z"/>
+    <rect class="st1" x="-.5" y="84.33" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="73.67" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="63" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="52.33" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="41.67" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="31" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="20.33" width="96" height="1"/>
+    <rect class="st1" x="-.5" y="9.67" width="96" height="1"/>
+    <rect class="st1" x="84.33" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="73.67" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="63" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="52.33" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="41.67" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="31" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="20.33" y="-.5" width="1" height="96"/>
+    <rect class="st1" x="9.67" y="-.5" width="1" height="96"/>
+  </g>
+  <rect class="st4" x="10" y="10" width="75" height="11"/>
+  <rect class="st0" x="10" y="31" width="75" height="11"/>
+  <rect class="st5" x="10" y="52" width="75" height="11"/>
+  <rect class="st2" x="10" y="73" width="75" height="11"/>
+</svg>
