@@ -110,6 +110,25 @@
 
     }
 
+    .floating{
+
+        background-color: var(--blanco);
+        border-radius: 25%;
+        width: calc(2*var(--altura_icon_mobile));
+        height: calc(2*var(--altura_icon_mobile));
+        position: fixed;
+        right: 20px;
+        bottom: 20px;
+        z-index: 3;       
+
+        img{
+
+            height: 100%;
+
+        }
+
+    }
+
 /*class*/
 
     .container{
@@ -1661,9 +1680,9 @@
 
                 }
 
-                .box_3{
+                .box{
 
-                    display: block;
+                    display: flex!important;/**NO SE PORQUE NO ME TOMABA ESTO Y LE TUVE QUE PONER IMPORTANT**/
 
                 }
 
